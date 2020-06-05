@@ -1,0 +1,142 @@
+/* nav bar */
+nav
+{
+background-color: white  !important;
+}
+.head
+{
+    background-color:#f8f8fd !important;
+}
+.navbar a
+{
+color:black !important;
+font-size: 15px;
+letter-spacing: 1px;
+font-weight: bold  !important;
+}
+#logo
+{
+    height: auto;
+    width: auto;
+    margin-right: 50em;
+}
+
+/* new arrivals */
+
+h1{
+    margin:0em 5em;
+    padding: 0.5em 0;
+    border: 1px solid black;
+    font-weight: bold;
+    font-size: 5em;
+    color:black;
+    text-align: center;
+    /* border-radius: 10px; */
+    widows: 800px;
+    height:100px;
+}
+
+/* footer same again */
+.three1
+{
+    vertical-align: 0em;
+    margin-right:2em;
+}
+.two1
+{
+    vertical-align: 2em;
+    margin-right:2em;
+}
+.four1
+{
+    vertical-align: 3.6em;
+    margin-left:2em ;
+}
+ul{
+   display:inline-block;
+}
+ul a 
+{
+text-decoration: none;
+color:black;
+font-weight: normal;
+font-size: 0.8em;
+}
+ul li{
+    list-style: none;
+    margin:0.5em 0em;
+}
+.one1
+{
+    vertical-align: 5.5em;
+    margin-right:2em;
+}
+footer
+{
+    margin:0em auto;
+    background-color: #f9f9f9;
+    padding-left:  3.5em;
+}
+li i{
+    font-size: 1/3em;
+    color: #959da5;
+    margin-left: 1em;
+}
+
+#email
+{
+background-image: url("../images/email.png");
+background-repeat: no-repeat;
+background-size:28px;
+color: black;
+}
+li img{
+    height:54px;
+    width:80px;
+    margin:0 10px;
+}
+
+/* filter */
+.btn-danger
+{
+    background-color: white !important ;
+    color:black !important;
+    border: 1px solid black !important;
+    border-radius: none !important;
+}
+
+#filter{
+    margin:1em 12em;
+    padding: 0.5em 0;
+    font-weight: bold;
+    font-size: 2em;
+    color:black;
+    text-align: center;
+    width: 500px;
+    height:70px;
+}
+.page-link
+{
+    color:black !important;
+}
+.pagination
+{
+    margin:4em 40em;
+}
+
+/* FILTER'S ROWS  */
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin:1em 0 1em 4em;
+}
+figure img{
+    height:260px;
+    width:200px;
+}
+figure
+{
+    margin:0 2em;
+}

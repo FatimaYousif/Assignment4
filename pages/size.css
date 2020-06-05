@@ -1,0 +1,113 @@
+/* nav bar */
+nav
+{
+background-color: white  !important;
+}
+.head
+{
+    background-color:#f8f8fd !important;
+}
+.navbar a
+{
+color:black !important;
+font-size: 15px;
+letter-spacing: 1px;
+font-weight: bold  !important;
+}
+#logo
+{
+    height: auto;
+    width: auto;
+    margin-right: 50em;
+}
+
+/* footer same again */
+.three1
+{
+    vertical-align: 0em;
+    margin-right:2em;
+}
+.two1
+{
+    vertical-align: 2em;
+    margin-right:2em;
+}
+.four1
+{
+    vertical-align: 3.6em;
+    margin-left:2em ;
+}
+ul{
+   display:inline-block;
+}
+ul a 
+{
+text-decoration: none;
+color:black;
+font-weight: normal;
+font-size: 0.8em;
+}
+ul li{
+    list-style: none;
+    margin:0.5em 0em;
+}
+.one1
+{
+    vertical-align: 5.5em;
+    margin-right:2em;
+}
+footer
+{
+    margin:0em auto;
+    background-color: #f9f9f9;
+    padding-left:  3.5em;
+}
+li i{
+    font-size: 1/3em;
+    color: #959da5;
+    margin-left: 1em;
+}
+
+#email
+{
+background-image: url("../images/email.png");
+background-repeat: no-repeat;
+background-size:28px;
+color: black;
+}
+li img{
+    height:54px;
+    width:80px;
+    margin:0 10px;
+}
+
+/* content  middle */
+.container
+{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width:100%;
+}
+.info,.charts
+{
+    width:45%;
+    margin-right: 3em;
+}
+
+.info img,.charts img
+{
+    width:100%;
+    height:auto;
+}
+.heading
+{
+    display:flex;
+    justify-content: center;
+    margin-top:1em;
+}
+
+
+
+
+

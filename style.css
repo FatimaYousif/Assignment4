@@ -1,0 +1,145 @@
+nav
+{
+background-color: white  !important;
+}
+.head
+{
+    background-color:#f8f8fd !important;
+}
+
+.navbar a
+{
+color:black !important;
+font-size: 15px;
+letter-spacing: 1px;
+font-weight: bold  !important;
+}
+
+#logo
+{
+    height: auto;
+    width: auto;
+    margin-right: 50em;
+}
+h1{
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: bold  !important;
+    text-align: center;
+    margin: 2em 0em !important;
+    }
+    
+.one
+{
+    margin:0em 5em !important;
+}
+
+.two
+{
+   display: flex;
+   margin:0em 2.5em;
+}
+.three
+{
+   display: flex;
+    margin: 0 10%;
+}
+.col-xs-2
+{
+    margin:10px 8px;
+}
+.img-fluid
+{
+margin:5% 7%;
+}
+
+.after img{
+    width: 600px;
+    height:600px;
+    margin:2em 1em;
+}
+
+.after{
+    margin:0em 2em;
+}
+@media only screen and (max-width: 670px)
+{
+.after img{
+        width: 400px;
+        height:400px;
+        margin:2em 3em;
+    }
+    .after{
+        margin:0em 3em;
+    }
+    
+
+}
+
+.col-xs-3
+{
+    margin:10px 8px;
+
+}
+
+
+/*FOOTER  */
+
+.three1
+{
+    vertical-align: 0em;
+    margin-right:2em;
+}
+.two1
+{
+    vertical-align: 2em;
+    margin-right:2em;
+}
+.four1
+{
+    vertical-align: 3.6em;
+    margin-left:2em ;
+}
+ul{
+   display:inline-block;
+}
+ul a 
+{
+text-decoration: none;
+color:black;
+font-weight: normal;
+font-size: 0.8em;
+}
+ul li{
+    list-style: none;
+    margin:0.5em 0em;
+}
+.one1
+{
+    vertical-align: 5.5em;
+    margin-right:2em;
+}
+footer
+{
+    margin:0em auto;
+    background-color: #f9f9f9;
+    padding-left: 3.5em;
+}
+li i{
+    font-size: 1/3em;
+    color: #959da5;
+    margin-left: 1em;
+}
+
+#email
+{
+background-image: url("images/email.png");
+background-repeat: no-repeat;
+background-size:28px;
+color: black;
+}
+li img{
+    height:54px;
+    width:80px;
+    margin:0 10px;
+}
